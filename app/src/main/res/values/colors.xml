@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="uno">#098789</color>
+    <color name="dos">#F4E8C1</color>
+
+    <color name="ColorUno">#B7E4C7</color>
+    <color name="ColorTres">#B7E4C7</color>
+</resources>

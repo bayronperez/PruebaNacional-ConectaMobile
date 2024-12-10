@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86429254170",
+    "project_id": "conectamobile-e425a",
+    "storage_bucket": "conectamobile-e425a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86429254170:android:4c8560dd38ef4f42e5c7a3",
+        "android_client_info": {
+          "package_name": "com.example.conectamobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5scFKwRBb3X8yZyRat46A9gceLuS1KYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
